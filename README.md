@@ -107,7 +107,7 @@ index.html
 
 ### 2. Vercel
 
-### 3  Netlify
+### 3. Netlify
 
 ---
 
