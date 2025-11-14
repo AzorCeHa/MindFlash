@@ -99,15 +99,15 @@ index.html
 
 ## 🌍 **Deploy ke Hosting**
 
-### GitHub Pages
+### 1. GitHub Pages
 1. Settings → Pages  
 2. Pilih branch `main`  
 3. Pilih folder root  
 4. Done!
 
-### Vercel
+### 2. Vercel
 
-### Netlify
+### 3  Netlify
 
 ---
 
