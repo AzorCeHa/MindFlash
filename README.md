@@ -20,12 +20,10 @@ Proyek ini menggunakan **HTML, CSS, dan JavaScript murni** serta terhubung langs
 - Mendukung image, PDF, TXT, CSV  
 - Preview otomatis di chat
 
-### 🧵 *Formatting WhatsApp-like*
+### 🧵 *Formatting Text*
 - **Bold** → `*teks*`  
 - _Italic_ → `_teks_`  
 - ~~Strikethrough~~ → `~teks~`  
-- Bullet list otomatis  
-- Numbered list otomatis  
 
 ### 🧩 *Syntax Highlighting untuk Kode*
 - Menggunakan **highlight.js**  
