@@ -106,12 +106,8 @@ index.html
 4. Done!
 
 ### Vercel
-```bash
-vercel
-```
 
 ### Netlify
-- Drag & drop folder project ke dashboard
 
 ---
 
